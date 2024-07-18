@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* navbar style */
+.nav-main{
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    padding: 20px;
+    color: white;
+    
+}
+.nav-wrap{
+    background-color: gray;
+
+}
+.btn{
+    background-color: black;
+    color: white;
+     padding: 6px; 
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+

@@ -1,0 +1,10 @@
+@media screen and (min-width: 577px) and (max-width: 877px) {
+   
+    .nav-main{
+        flex-direction: column;
+        align-items: center;
+        
+        
+    } 
+
+}
